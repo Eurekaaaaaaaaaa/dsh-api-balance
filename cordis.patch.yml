@@ -1,0 +1,18 @@
+# dsh-api-balance bundle patch.
+#
+# The Host half owns polling and the three local routes; package.json's
+# `dsh.client` declaration is what makes DSH discover client.js for the Web UI.
+#
+# Optional configuration (all keys have defaults):
+#
+#   - insert:
+#       - id: dsh-api-balance
+#         name: dsh-api-balance
+#         config:
+#           pollIntervalSec: 300
+#
+# Provider list and API keys do NOT live here: they belong to the plugin's own
+# file, ~/.dsh/api-balance/config.json, which the panel edits.
+- insert:
+    - id: dsh-api-balance
+      name: dsh-api-balance

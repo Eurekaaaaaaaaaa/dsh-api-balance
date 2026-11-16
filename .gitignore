@@ -1,0 +1,13 @@
+# 运行期数据：绝不要提交（里面有你的密钥、余额快照与历史）
+config.json
+config.json.bak
+last-state.json
+history.json
+probe.log
+*.log
+
+# 依赖与工具产物
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini

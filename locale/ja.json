@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "API 残高",
+    "description": "DeepSeek と外部 API の残高・割当量を浮遊ステータスピルでまとめて表示します。"
+  }
+}

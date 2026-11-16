@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "API-Guthaben",
+    "description": "Verfolgt Guthaben und Kontingente von DeepSeek und Drittanbieter-APIs in einer schwebenden Statuspille."
+  }
+}

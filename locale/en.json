@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "API Balance",
+    "description": "Tracks DeepSeek and third-party API balances and quota in one floating status pill."
+  }
+}
