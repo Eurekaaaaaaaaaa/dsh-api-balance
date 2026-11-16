@@ -11,6 +11,11 @@
     "billing"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eurekaaaaaaaaaa/dsh-api-balance.git"
+  },
+  "homepage": "https://github.com/Eurekaaaaaaaaaa/dsh-api-balance#readme",
   "type": "module",
   "engines": {
     "node": ">=20"
